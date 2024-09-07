@@ -101,13 +101,14 @@ hr {
 
 table {
   width: 100%;
+  border-collapse: collapse;
 }
 
 td {
   padding: 1rem;
   font-weight: 500;
   border-bottom: 1px solid hsl(30, 18%, 87%);
-  border-collapse: collapse;
+  text-align: left;  
   border-spacing: 0;
   
 }
